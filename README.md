@@ -3,7 +3,9 @@
 ## A Comparative Study of Available Embedding and Similarity Search Techniques
 >
 > ECE-GY 7123: Deep Learning (Spring 2023) Final-Project
->  
+> Team Members: Kabir Jaiswal, Nigam Patel, Spriha Jha
+>
+
 
 ### Abstract
 
